@@ -18,7 +18,7 @@ organizations:
     url: https://www.ifpri.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a research assistant at the International Food Policy Research Institute (IFPRI), East and Central Asia office. At IFPRI, I focus on the impact assessment of regional integration, particularly in the agri-food sector, on child health. I am also studying the potential impact of the sustainable food value chain, and the country-level diagnotic analyasis for agri-food system transformation. Prior to joining IFPRI, I completed my master's degree at the University of Edinburgh, and my bachelor's degree in International Economics and Trade at Guangdong University of Foreign Studies (2020).
+bio: 
 
 # Interests to show in About widget
 interests:
@@ -52,5 +52,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a research assistant at the International Food Policy Research Institute (IFPRI), East and Central Asia office. At IFPRI, I focus on the impact assessment of regional integration, particularly in the agri-food sector, on child health. I am also studying the potential impact of the sustainable food value chain, and the country-level diagnotic analyasis for agri-food system transformation. Prior to joining IFPRI, I completed my master's degree at the University of Edinburgh, and my bachelor's degree in International Economics and Trade at Guangdong University of Foreign Studies (2020).
 {style="text-align: justify;"}
